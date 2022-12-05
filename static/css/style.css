@@ -1,7 +1,5 @@
-@media screen and (min-width: 1080px) {
-    body {
-        /* background: no-repeat center/100% url("/img/empty-elegant-background-with-copy-space.jpg"); */
-        /* background: no-repeat fixed center/100% url("/img/17564661_SL_042620_30310_25.jpg"); */
-        background: none;
-    }
+.portrait img {
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
 }

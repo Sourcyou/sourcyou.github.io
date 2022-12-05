@@ -6,7 +6,7 @@ summary: ""
 ---
 
 
-{{< line-with-picture position="left" alt="t" >}}
+{{< line-with-picture class="portrait" position="left" src="/img/photo.jpg" alt="Portrait de Mira" >}}
 
 ## Bonjour, moi c’est Mira.
 
