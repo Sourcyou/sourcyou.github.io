@@ -1,6 +1,7 @@
 ---
 title: "Illustrations"
 layout: illustrations
+draft: true
 img:
 - "12230268_4931029.jpg"
 - "17564661_SL_042620_30310_25.jpg"

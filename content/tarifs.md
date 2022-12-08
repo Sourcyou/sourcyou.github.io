@@ -1,7 +1,7 @@
 ---
 title: "Mes tarifs"
-date: 2022-11-16T15:25:50+01:00
-draft: false
+sitemap:
+  priority: 0.2
 ---
 
 {{< auto-columns class="tile" >}}

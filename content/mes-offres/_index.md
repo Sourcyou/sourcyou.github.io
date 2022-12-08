@@ -1,8 +1,6 @@
 ---
 title: "Mes Offres"
 date: 2022-11-16T15:21:50+01:00
-draft: false
-disablePages: true
 layout: single
 ---
 

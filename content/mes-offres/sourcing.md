@@ -4,7 +4,7 @@ date: 2022-11-16T15:25:29+01:00
 draft: false
 ---
 
-{{< section "col-12 col-lg-8 offset-lg-2 mb-5" >}}
+{{< section "col-12 col-lg-8 offset-lg-2" >}}
 Vous avez déja essayé de :
 - Relancer votre vivier actuel ? Contacter les alumnis ?
 - Publier une annonce ? Activer le programme de cooptation ?

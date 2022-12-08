@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://sourcyou.fr/
 defaultContentLanguage: fr
 languageCode: fr-fr
 title: Sourcyou
@@ -13,8 +13,12 @@ languages:
 params:
   useStoryset: 1
   email: mira@sourcyou.fr
-  phone: 07.66.08.12.02
+  phone: +33.7.66.08.12.02
   errorPicture: /img/404.svg
+
+  legal:
+    company: Tsvetomira TSVETKOVA EIRL
+    siren: 905 259 826
 
   nav:
   - title: Mes offres
@@ -26,10 +30,55 @@ params:
   - title: Mes tarifs
     link: /tarifs
 
+  footer:
+    nav:
+    - section: Mes Offres
+      link : /mes-offres
+      subsections :
+      - title: Le sourcing de candidats
+        link: /mes-offres/sourcing
+      - title: La creation d'un pôle sourcing
+        link: /mes-offres/creation-pole-sourcing
+      - title: La reorganisation d'un pôle sourcing
+        link: /mes-offres/reorganisation-pole-sourcing
+      - title: Formation & sourcing hotline
+        link: /mes-offres/formation-et-hotline-sourcing
+    - section: Ma facon de travailler
+      link : /comment-je-travaille
+      subsections :
+      - title: Mes tarifs
+        link: /tarifs
+      - title: Vous recherchez un poste ?
+        link: /mes-offres/agent-de-carriere
+    - section: Légal
+      subsections :
+      - title: Mentions légales
+        link: /legal/mentions-legales
+      - title: Conditions Générales d'Utilisation
+        link: /legal/cgu
+      - title: Conditions Générales de Vente
+        link: /legal/cgv
+
   socials:
     linkedin: https://www.linkedin.com/in/mira-tsvetkova/
+
+disableKinds:
+- taxonomy
+- tags
+- term
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 1
 
 markup:
   goldmark:
     renderer:
       unsafe: true
+
+frontmatter:
+  lastmod:
+  - lastmod
+  - :fileModTime
+  - :default
