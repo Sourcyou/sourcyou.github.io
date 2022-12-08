@@ -39,7 +39,7 @@ Depuis 2021, je travaille en tant que sourceur freelance et me spécialise sur l
 
 {{</ line-with-picture >}}
 
-{{< line-with-picture position="left" src="/img/degree-pana.svg" alt="Femme de dos déplaçant un point sur une échelle horizontale graduée de 0 à 8. Cette échelle représente l'expertise de cette femme. Le point est située sur 4 et demi et on voit que la femme veut le déplacer vers 8." >}}
+{{< line-with-picture position="left" src="/img/degree-pana.svg" alt="Femme évalant ses compétences sur une échelle graduée." >}}
 
 ## Mon expertise metiers
 
@@ -60,7 +60,7 @@ Discutons-en !
 
 {{</ line-with-picture >}}
 
-{{< line-with-picture src="/img/designer-girl-rafiki.svg" alt="Femme assise sur une chaise devant un bureau. Il y a un ordinateur sur le bureau. L'écran est visible sur l'arrière plan, un dessin est en cours de création.">}}
+{{< line-with-picture src="/img/designer-girl-rafiki.svg" alt="Femme assise devant un ordinateur qui crée un dessin.">}}
 
 ## Mes outils
 
