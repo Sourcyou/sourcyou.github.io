@@ -7,7 +7,7 @@ layout: single
 {{< auto-columns class="tile with-link">}}
 ## Le sourcing
 
-{{< svg src="/img/people-search-pana.svg" alt="todo" >}}
+{{< svg src="/img/people-search-pana.svg" alt="Trois personnes sont présentes, celle du milieu est mise en avant." >}}
 
 Vous êtes à la recherche des candidats ?
 
@@ -17,7 +17,7 @@ Vous êtes au bon endroit !
 
 ----
 ## La creation d'un pôle sourcing
-{{< svg src="/img/team-goals-pana.svg" alt="todo" >}}
+{{< svg src="/img/team-goals-pana.svg" alt="Une équipe plante un drapeau. Une étape est franchie." >}}
 
 Vos besoins en recrutement sont actifs et nombreux tout au long de l'année ?
 
@@ -29,7 +29,7 @@ Je vous accompagne sur le "mapping" d'une équipe interne de sourceurs.
 
 {{< auto-columns class="tile with-link">}}
 ## La reorganisation d'un pôle sourcing
-{{< svg src="/img/business-project-amico.svg" alt="todo" >}}
+{{< svg src="/img/business-project-amico.svg" alt="Une équipe réfléchit afin d'améliorer ses outils et ses méthodes." >}}
 
 Tout est déjà en place, mais quelque chose vous laisse croire que les résultats peuvent être meilleurs ?
 
@@ -39,7 +39,7 @@ Je peux vous aider à revoir vos pratiques et votre organisation !
 
 ----
 ## Formation & sourcing hotline
-{{< svg src="/img/presentation-amico.svg" alt="todo" >}}
+{{< svg src="/img/presentation-amico.svg" alt="Une femme est debout face à un ordinateur. L'écran est projetté derrière" >}}
 
 Vous êtes une petite structure qui se charge elle- même du sourcing et vous ne savez pas comment vous y prendre ?
 
