@@ -11,6 +11,8 @@ languages:
     weight: 1
 
 params:
+  logo: /img/logo.svg
+  favicon : true
   useStoryset: 1
   email: mira@sourcyou.fr
   phone: +33.7.66.08.12.02

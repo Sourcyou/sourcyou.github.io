@@ -1,5 +1,5 @@
 ---
-title: "Hello"
+title: "Bonjour, moi c’est Mira"
 draft: false
 tags: []
 summary: ""
@@ -8,7 +8,7 @@ summary: ""
 
 {{< line-with-picture class="portrait" position="left" src="/img/photo.jpg" alt="Portrait de Mira" >}}
 
-## Bonjour, moi c’est Mira.
+# Bonjour, moi c’est Mira.
 
 Je suis sourceuse depuis 2014 !
 
