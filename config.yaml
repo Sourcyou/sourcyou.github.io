@@ -11,7 +11,7 @@ languages:
     weight: 1
 
 params:
-  logo: /img/logo.svg
+  logo: /img/logo.png
   favicon : true
   useStoryset: 1
   email: mira@sourcyou.fr
