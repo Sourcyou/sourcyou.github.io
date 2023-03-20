@@ -9,7 +9,7 @@ sitemap:
 
 *tarif moyen journalier
 
-550 € / Jour
+650 € / Jour
 (Facturation en fin du mois ou à 30 jours)
 
 
@@ -22,7 +22,7 @@ Cette facturation est avec une obligation de moyens et non de résultats ! Quel 
 ----
 ## A L'HEURE
 
-70 € / heure
+80 € / heure
 
 Pour toutes les prestations de formation et de sessions "hotline sourcing".
 
