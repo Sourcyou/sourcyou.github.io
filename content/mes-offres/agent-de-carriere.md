@@ -14,7 +14,7 @@ A moi de jouer pour vous mettre en relation avec votre futur nouvel employeur.
 
 ## Comment je vous aide concretement ?
 
-D’abord on se contacte, on fait connaissance (par téléphone, par visio ou on se retrouve dans un café si on est dans la même ville au même moment ) et on construit ensemble le contenu du poste qui vous donnera envie de rejoindre une société (secteur.s, localisation, taille des sociétés que tu cibles, salaire & avantages, projet.s, organisation, tes objectifs d’évolution à moyen et long-terme)…
+D’abord on se contacte, on fait connaissance (par téléphone, par visio ou on se retrouve dans un café si on est dans la même ville au même moment ) et on construit ensemble le contenu du poste qui vous donnera envie de rejoindre une société (secteur.s, localisation, taille des sociétés que vous ciblez, salaire & avantages, projet.s, organisation, vos objectifs d’évolution à moyen et long-terme)…
 
 Par la suite, je m’engage à vous aider à mon échelle pour trouver le poste qui est en phase avec votre projet. Soit en vous mettant en contact avec l’un de mes clients car leur environnement semble vous correspondre, soit en partageant votre parcours à mes pairs qui travaillent dans des sociétés qui peuvent vous intéresser.
 
