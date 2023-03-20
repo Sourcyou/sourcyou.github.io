@@ -16,7 +16,8 @@ sitemap:
 
 Je vous accompagne sur 1 à 2 jours/semaine (heures ventilés sur une semaine travaillée).
 
-Toute missions de sourcing peut faire l'objet d'une facturaction "sur mesure" (forfait trimestriel de démarrage, abonnement semestriel ou annuel...), alors discutons-en d'abord de ce dont vous avez besoin!
+Toute mission de sourcing peut faire l'objet d'une facturation avec des modalités "sur mesure" (ex: forfait de démarrage, abonnement de 3, 6 ou 12 mois etc.). 
+
 ----
 ## A L'HEURE
 
