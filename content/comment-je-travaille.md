@@ -25,7 +25,7 @@ Un échange par semaine minimum pour communiquer toutes les informations utiles 
 {{< auto-columns class="tile">}}
 ## Disponibilités
 
-1 à 2 jours / semaine
+1 à 3 jours / semaine
 
 Les heures sont ventilées sur une semaine travaillée pour plus d'efficacité.
 
