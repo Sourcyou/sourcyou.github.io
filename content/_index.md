@@ -33,7 +33,7 @@ Je vous invite à jeter un coup d’œil à mes prestations et nous contacter po
 
 Pendant 7 ans, j'ai évolué dans des sociétés de conseil et j'ai accompagné mes clients internes sur la recherche de deux catégories de profils :
 - Des profils tech (Java, J2EE, C#, C++, SAP, Cloud, DevOps, Ingénieurs Data...) essentiellement pour les secteurs de la banque et de l'assurance.
-- Des profils fonctionnels spécialisés en stratégie et management du projet cross secteurs.
+- Des profils fonctionnels C-Level spécialisés en stratégie et management du projet cross secteurs.
 
 Depuis 2021, je travaille en tant que sourceur freelance et j'accompagne mes clients sur la recherche des profils fonctionnels et technico-fonctionnels spécialisés toujours dans la stratégie et la conduite de projets transverses cross secteurs. 
 
