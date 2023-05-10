@@ -14,9 +14,9 @@ sitemap:
 
 **Vous avez besoin de recruter plusieurs profils avec des expertises différentes ?**
 
-Je vous accompagne sur 1, 2 à 3 jours/semaine (heures ventilés sur une semaine travaillée).
+Selon le volume de vos besoins, je vous accompagne sur 1, 2 à 3 jours/semaine (heures ventilés sur une semaine travaillée).
 
-Toute mission de sourcing peut faire l'objet d'une facturation avec des modalités "sur mesure" (ex: forfait de démarrage poursuivi d'un abonnement de 3, 6 ou 12 mois etc.). 
+Toute mission de sourcing peut faire l'objet d'une facturation avec des modalités "sur mesure" (ex: abonnement au forfait allant de 3 à 6 mois). 
 
 ----
 ## A L'HEURE
