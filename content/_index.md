@@ -20,7 +20,7 @@ Mon rôle principal est d’identifier, d'approcher et de faire engager les prof
 
 Mais ce n'est pas tout !
 
-Allez jeter un coup d’œil à mes prestations et contactons-nous pour en discuter :
+Je vous invite à jeter un coup d’œil à mes prestations et nous contacter pour en discuter :
 
 {{< contact >}}
 
@@ -33,9 +33,9 @@ Allez jeter un coup d’œil à mes prestations et contactons-nous pour en discu
 
 Pendant 7 ans, j'ai évolué dans des sociétés de conseil et j'ai accompagné mes clients internes sur la recherche de deux catégories de profils :
 - Des profils tech (Java, J2EE, C#, C++, SAP, Cloud, DevOps, Ingénieurs Data...) essentiellement pour les secteurs de la banque et de l'assurance.
-- Des profils fonctionnels spécialisés en stratégie et management du projet cross secteurs.
+- Des profils fonctionnels C-Level spécialisés en stratégie et management du projet cross secteurs.
 
-Depuis 2021, je travaille en tant que sourceur freelance et me spécialise sur les métiers de l’ingénierie Data, l’analyse et la visualisation des données.
+Depuis 2021, je travaille en tant que sourceur freelance et j'accompagne mes clients sur la recherche des profils fonctionnels et technico-fonctionnels spécialisés toujours dans la stratégie et la conduite de projets transverses cross secteurs. 
 
 {{</ line-with-picture >}}
 
@@ -45,12 +45,9 @@ Depuis 2021, je travaille en tant que sourceur freelance et me spécialise sur l
 
 Mon expertise est portée sur la recherche et l'engagement des profils qui ne sont pas à l'écoute du marché. Mon but est de les transformer en candidats pour vous.
 
-Je construis mon expertise sur la recherche des profils avec une expertise métier qui s’articule autour de la donnée et de ce que l’on peut faire avec, notamment des :
-- Architectes Data
-- Data analystes
-- Ingénieurs Data
-- Data scientistes
-- Experts Data visualisation
+Je construis mon expertise sur la recherche des profils avec une expertise métier en :
+- CYBERSÉCURITÉ : Experts GRC, Experts Red Team, Experts Blue Team, Experts SOC ;
+- DATA : Architectes Data, Data analystes, Ingénieurs Data, Data scientistes, Experts Data visualisation
 
 Mais qui dit sourceur, dit surtout "techniques de sourcing et d'engagement" pour trouver et engager le.s profil.s peu importe leur expertise.
 

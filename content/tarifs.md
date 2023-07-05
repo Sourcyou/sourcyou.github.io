@@ -5,24 +5,23 @@ sitemap:
 ---
 
 {{< auto-columns class="tile" >}}
-## Au tjm* :
+## Au TJM* :
 
 *tarif moyen journalier
 
-550 € / Jour
+650 € / Jour
 (Facturation en fin du mois ou à 30 jours)
-
 
 **Vous avez besoin de recruter plusieurs profils avec des expertises différentes ?**
 
-Je vous accompagne sur 1 à 2 jours/semaine (heures ventilés sur une semaine travaillée).
+Selon le volume de vos besoins, je vous accompagne sur 1, 2 à 3 jours/semaine (heures ventilés sur une semaine travaillée).
 
-Cette facturation est avec une obligation de moyens et non de résultats ! Quel que soit le nombre des profils recrutés seul le coût de la prestation journalière est facturée.
+Toute mission de sourcing peut faire l'objet d'une facturation avec des modalités "sur mesure" (ex: abonnement au forfait allant de 3 à 6 mois). 
 
 ----
 ## A L'HEURE
 
-70 € / heure
+80 € / heure
 
 Pour toutes les prestations de formation et de sessions "hotline sourcing".
 
