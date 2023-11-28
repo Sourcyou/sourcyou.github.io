@@ -5,18 +5,15 @@ sitemap:
 ---
 
 {{< auto-columns class="tile" >}}
-## Au TJM* :
+## Forfait :
 
-*tarif moyen journalier
-
-650 € / Jour
+Forfait mensuel de 5 200 €
 (Facturation en fin du mois ou à 30 jours)
 
-**Vous avez besoin de recruter plusieurs profils avec des expertises différentes ?**
+Intervention à distance via mes outils de sourcing sur un périmètre défini ensemble. 
+Quel que soit le nombre de profils identifiés/recrutés, seul le coût de la prestation est facturé.
 
-Selon le volume de vos besoins, je vous accompagne sur 1, 2 à 3 jours/semaine (heures ventilés sur une semaine travaillée).
-
-Toute mission de sourcing peut faire l'objet d'une facturation avec des modalités "sur mesure" (ex: abonnement au forfait allant de 3 à 6 mois). 
+Toute mission de sourcing peut faire l'objet d'une facturation avec des modalités "sur mesure" (ex: abonnement au forfait allant de 3, 6 mois à 1 an). 
 
 ----
 ## A L'HEURE
