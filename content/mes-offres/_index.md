@@ -43,7 +43,7 @@ Je peux vous aider à revoir vos pratiques et votre organisation !
 
 Vous êtes une petite structure qui se charge elle- même du sourcing et vous ne savez pas comment vous y prendre ?
 
-Je vous transmets les bases du sourcing et me tiens à votre disposition pour des sessions de "déblocage".
+Je vous transmets les bases du sourcing et je viens "débloquer" vos sessions de sourcing en partant si besoin de votre stratégie, recherche, messages d'approche et les indicateurs à suire pour votre performance en sourcing. 
 
 [Venez jeter un oeil par ici](formation-et-hotline-sourcing)
 
