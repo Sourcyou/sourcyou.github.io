@@ -5,9 +5,9 @@ sitemap:
 ---
 
 {{< auto-columns class="tile" >}}
-## TJM :
+## FORFAIT :
 
-TJM de 550 €
+Forfait basé sur un TJM (tarif journalier moyen) selon le nombre des jours nécessaires pour répondre à votre besoin en recrutement !
 (Facturation en fin du mois ou à 30 jours)
 
 Intervention à distance via mes outils de sourcing sur un périmètre défini ensemble et incluant les phases de Brief, de Sourcing, de la Préqualification et du Reporting.
