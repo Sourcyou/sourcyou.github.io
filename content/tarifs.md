@@ -24,11 +24,10 @@ SOURCING BUDDY :
 
 A raison de 2 à 3 demi-journées par semaine, j'interviens au sein de vos locaux et j'aide vos équipes à sourcer sur l’ensemble de vos besoins.
 
-1 à 2 demi-journées par semaine
-1 à 3 mois maximum
 
 HOTLINE SOURCING : 
 80€ / Heure
+
 1h d'échanges maximum
 8 heures maximum sur le mois
 
