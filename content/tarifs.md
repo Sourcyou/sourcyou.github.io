@@ -8,6 +8,7 @@ sitemap:
 ## SOURCING EXTERNALISE :
 
 Forfait de 4500€ HT / Périmètre !
+
 (Facturation en fin du mois ou à 30 jours)
 
 Intervention à distance via mes outils de sourcing sur un périmètre défini ensemble et incluant les phases de Brief, de Sourcing, de la Préqualification et du Reporting.
