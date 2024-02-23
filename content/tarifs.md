@@ -28,10 +28,8 @@ A raison de 2 à 3 demi-journées par semaine, j'interviens au sein de vos locau
 HOTLINE SOURCING : 
 80€ / Heure
 
-1h d'échanges maximum
-8 heures maximum sur le mois
+Un échange via Teams ou par téléphone pour débloquer vos sessions de sourcing (booléens, recherche, approches, outils, préqualification téléphonique…).
 
-C’est l’occasion pour vous de bénéficier (à un moindre coût) des conseils d’un coach en sourcing quel que soit votre besoin (booléens, recherche, outils, préqualification téléphonique…) sur une période définie.
-
+Possibilité d'un forfait de 8h au prix de 600€ HT / mois 
 
 {{</ auto-columns >}}
