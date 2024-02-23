@@ -5,7 +5,7 @@ sitemap:
 ---
 
 {{< auto-columns class="tile" >}}
-## FORFAIT :
+## SOURCING EXTERNALISE :
 
 Forfait de 4500€ HT / Périmètre !
 (Facturation en fin du mois ou à 30 jours)
