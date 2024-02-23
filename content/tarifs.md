@@ -7,20 +7,31 @@ sitemap:
 {{< auto-columns class="tile" >}}
 ## FORFAIT :
 
-Forfait basé sur un TJM (tarif journalier moyen) selon le nombre des jours nécessaires pour répondre à votre besoin en recrutement !
+Forfait de 4500€ HT / Périmètre !
 (Facturation en fin du mois ou à 30 jours)
 
 Intervention à distance via mes outils de sourcing sur un périmètre défini ensemble et incluant les phases de Brief, de Sourcing, de la Préqualification et du Reporting.
 
 Quel que soit le nombre de profils identifiés/recrutés, seul le coût de la prestation est facturé.
 
-Devis sous demande !
 
 ----
-## A L'HEURE
+## SOURCING BUDDY & HOTLINE SOURCING : 
 
-80 € / heure
+SOURCING BUDDY :
+500€ HT / Demi journée 
 
-Pour toutes les prestations de formation et de sessions "hotline sourcing".
+A raison de 2 à 3 demi-journées par semaine, j'interviens au sein de vos locaux et j'aide vos équipes à sourcer sur l’ensemble de vos besoins.
+
+1 à 2 demi-journées par semaine
+1 à 3 mois maximum
+
+HOTLINE SOURCING : 
+80€ / Heure
+1h d'échanges maximum
+8 heures maximum sur le mois
+
+C’est l’occasion pour vous de bénéficier (à un moindre coût) des conseils d’un coach en sourcing quel que soit votre besoin (booléens, recherche, outils, préqualification téléphonique…) sur une période définie.
+
 
 {{</ auto-columns >}}
