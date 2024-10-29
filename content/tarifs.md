@@ -5,7 +5,7 @@ sitemap:
 ---
 
 {{< auto-columns class="tile" >}}
-## SOURCING EXTERNALISE :
+## SOURCING EXTERNALISE 
 
 Forfait de 4500€ HT / Mois* !
 
@@ -19,7 +19,7 @@ Prise du brief, construction de vivier, la préqualificatiion, un reporting hebd
 
 ----
 
-## RPO SOURCING : 
+## RPO SOURCING  
 
 650€ HT / Jour  
 
@@ -31,7 +31,7 @@ Prise du brief, le sourcing, la préqualificatiion, un reporting selon les récu
 
 ----
 
-## FORMATION AU SOURCING  : 
+## FORMATION AU SOURCING 
 
 750€ HT / Journée ou 400€ HT / Demi-journée
 
@@ -42,16 +42,12 @@ Intervention au sein de vos locaux ou à distance (via Teams ou Zoom).
 
 ----
 
-## HOTLINE SOURCING :
-
-Hotline sourcing : 
+## HOTLINE SOURCING 
 
 96€ / Heure
 
 Un échange via Teams ou par téléphone pour débloquer les sessions de sourcing de vos recruteurs (stratégie d'approche, storytelling, recherches booléennes, approches, relances, outils d'outreach, trame de préqualification…).
 
 Possibilité d'un forfait de 8h au prix de 650€ à utiliser dans la limite des 6 mois après achat. 
-
-----
 
 {{</ auto-columns >}}
