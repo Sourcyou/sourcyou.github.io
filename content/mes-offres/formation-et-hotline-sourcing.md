@@ -12,6 +12,6 @@ Et vous devez vous chargez vous-même du sourcing et vous ne savez pas comment v
 
 ## Comment je vous aide concretement ?
 
-Des sessions de formation d'une-demi journée pour vous transmettre les bases de sourcing et une hotline pour débloquer les difficultés rencontrées lors de vos recherches.
+Des sessions de formation sur mesure d'une-demi journée ou d'une journée entière pour vous transmettre les bases de sourcing et une hotline pour débloquer les difficultés rencontrées lors de vos recherches.
 
 {{</ section >}}
