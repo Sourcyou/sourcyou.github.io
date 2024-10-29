@@ -10,7 +10,7 @@ summary: ""
 {{< auto-columns class="tile">}}
 ## Mes clients
 
-J’accompagne à distance des clients finaux* de toute taille et basés partout en France et qui portent fièrement leur marque employeur.
+J’accompagne à distance des sociétés de conseil de toute taille et basés partout en France et qui portent fièrement leur marque employeur.
 
 _* ( pas de sociétés intermédiaires )_
 
@@ -23,20 +23,8 @@ Un échange par semaine minimum pour communiquer toutes les informations utiles 
 {{</ auto-columns >}}
 
 {{< auto-columns class="tile">}}
-## Disponibilités
-
-1 à 4 jours / semaine
-
-Les heures sont ventilées sur une semaine travaillée pour plus d'efficacité.
 
 ----
-## A distance  
-
-Télétravail à 100%.
-
-Avec un déplacement directement dans vos locaux en début et en fin de mission.
-
-
 
 {{</ auto-columns >}}
 
