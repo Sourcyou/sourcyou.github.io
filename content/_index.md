@@ -10,13 +10,11 @@ summary: ""
 
 # Bonjour, moi c’est Mira.
 
-Je suis sourceuse depuis 2014 !
+J’évolue dans le recrutement depuis 2013 auprès des cabinets de conseil pour leur apporter une expertise au sourcing de profils de Middle & Top management.
 
-Vous avez besoin d’aide pour trouver des candidats ?
+Mon rôle principal est d’identifier, d’approcher et de faire engager les profils qui vous intéressent afin de les transformer en vos candidats.
 
-Vous êtes au bon endroit !
-
-Mon rôle principal est d’identifier, d'approcher et de faire engager les profils qui vous intéressent afin de les transformer en vos candidats.
+Depuis 2021, je suis la fondatrice de Sourcyou et j’aide les équipes de recrutement en cabinets de conseil à recruter sans que leur équipe recrutement passe des heures à sourcer ! 
 
 Mais ce n'est pas tout !
 
@@ -29,35 +27,28 @@ Je vous invite à jeter un coup d’œil à mes prestations et nous contacter po
 
 {{< line-with-picture src="/img/profile-data-rafiki.svg" alt="Dessin représentant une personne tenant son curriculum vitae qui fait sa taille" >}}
 
-## Mon parcours
+## Mon expertise :
 
-Pendant 7 ans, j'ai évolué dans des sociétés de conseil et j'ai accompagné mes clients internes sur la recherche de deux catégories de profils :
-- Des profils tech (Java, J2EE, C#, C++, SAP, Cloud, DevOps, Ingénieurs Data...) essentiellement pour les secteurs de la banque et de l'assurance.
-- Des profils fonctionnels C-Level spécialisés en stratégie et management du projet cross secteurs.
+Depuis 2013 j'ai accompagné mes clients internes et externes en cabinets de conseil sur la recherche des profils Middle & Top Management spécialisés en stratégie et management du projet cross secteurs.
 
-Depuis 2021, je travaille en tant que sourceur freelance et j'accompagne mes clients sur la recherche des profils fonctionnels et technico-fonctionnels spécialisés toujours dans la stratégie et la conduite de projets transverses cross secteurs. 
++10 BU et équipes accompagnées : 
 
-{{</ line-with-picture >}}
-
-{{< line-with-picture position="left" src="/img/degree-pana.svg" alt="Femme évalant ses compétences sur une échelle graduée." >}}
-
-## Mon expertise metiers
-
-Mon expertise est portée sur la recherche et l'engagement des profils qui ne sont pas à l'écoute du marché. Mon but est de les transformer en candidats pour vous.
-
-Je construis mon expertise sur la recherche des profils avec une expertise métier en :
-- CYBERSÉCURITÉ : Experts GRC, Experts Red Team, Experts Blue Team, Experts SOC ;
-- DATA : Architectes Data, Data analystes, Ingénieurs Data, Data scientistes, Experts Data visualisation
+- Financial services (banque de détail, banque privée, wealth management, capital markets, assurance vie/iard, actuariat, gestion des risques, conformité et réglementation)
+- Corporate finance (transformation de la fonction finance, audit, contrôle de gestion, EPM solutions)
+- M&A strategy 
+- (SI)HR Stratégie & transformation
+- Cyber-sécurité (GRC, red team)
+- ERP (SAP, SalesForce, Workday)
+- Oil & Gas trading
 
 Mais qui dit sourceur, dit surtout "techniques de sourcing et d'engagement" pour trouver et engager le.s profil.s peu importe leur expertise.
 
 Vous avez besoin d'un profil avec une autre expertise ?
 
-Discutons-en !
-
 {{</ line-with-picture >}}
 
-{{< line-with-picture src="/img/designer-girl-rafiki.svg" alt="Femme assise devant un ordinateur qui crée un dessin.">}}
+{{< line-with-picture position="left" src="/img/degree-pana.svg" alt="Femme évalant ses compétences sur une échelle graduée." >}}
+
 
 ## Mes outils
 
