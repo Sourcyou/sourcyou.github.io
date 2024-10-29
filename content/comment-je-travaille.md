@@ -25,16 +25,16 @@ Un échange par semaine minimum pour communiquer toutes les informations utiles 
 {{< auto-columns class="tile">}}
 ## Disponibilités
 
-1 à 3 jours / semaine
+1 à 4 jours / semaine
 
 Les heures sont ventilées sur une semaine travaillée pour plus d'efficacité.
 
 ----
-## Full remote
+## A distance  
 
 Télétravail à 100%.
 
-Avec la possibilité de me déplacer directement dans vos locaux en début de mission pour vous rencontrer et faire connaissance avec l'équipe qui recrute.
+Avec un déplacement directement dans vos locaux en début et en fin de mission.
 
 
 
