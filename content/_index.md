@@ -14,7 +14,7 @@ J’évolue dans le recrutement depuis 2013 auprès des cabinets de conseil pour
 
 Mon rôle principal est d’identifier, d’approcher et de faire engager les profils qui vous intéressent afin de les transformer en vos candidats.
 
-Depuis 2021, je suis la fondatrice de Sourcyou et j’aide les équipes de recrutement en cabinets de conseil à recruter sans que leur équipe recrutement passe des heures à sourcer ! 
+Depuis 2021, je suis la fondatrice de Sourcyou et j’aide les équipes de recrutement en cabinets de conseil à recruter sans que leur équipe recrutement passe des heures à sourcer! 
 
 Mais ce n'est pas tout !
 
@@ -43,7 +43,7 @@ Depuis 2013 j'ai accompagné mes clients internes et externes en cabinets de con
 
 Mais qui dit sourceur, dit surtout "techniques de sourcing et d'engagement" pour trouver et engager le.s profil.s peu importe leur expertise.
 
-Vous avez besoin d'un profil avec une autre expertise ?
+Vous avez besoin d'un profil avec une autre expertise ? Contactez-moi directement pour en discuter !  
 
 {{</ line-with-picture >}}
 
