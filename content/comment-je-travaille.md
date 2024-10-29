@@ -30,7 +30,7 @@ Un échange par semaine minimum pour communiquer toutes les informations utiles 
 
 {{< auto-columns class="text-center tile" >}}
 
-## L'engagement
+## Mon engagement
 
 L'engagement des profils dans un processus de recrutement passe par votre marque employeur.
 
