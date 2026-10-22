@@ -21,3 +21,8 @@
 .race-stop p{font-size:15px;color:var(--muted);margin:8px 0}
 .race-finish{grid-column:1/-1;text-align:center;background:var(--navy);color:white;border-radius:16px;padding:16px;font-size:20px;font-weight:800;letter-spacing:.2px}
 @media(max-width:780px){.race-track{grid-template-columns:1fr;padding:15px}.race-track:before{left:41px;right:auto;top:40px;bottom:60px;height:auto;border-top:0;border-left:4px dashed #f89b69}.race-finish{grid-column:auto}.home-expertises{padding-top:26px;padding-bottom:30px}.home-approach{padding-top:32px;padding-bottom:30px}.page-hero{padding:35px 0 25px}}
+
+/* V9: trois expertises distinctes */
+.home-expertises .cards{grid-template-columns:repeat(3,minmax(0,1fr))}
+.home-expertises .card{min-width:0}
+@media(max-width:850px){.home-expertises .cards{grid-template-columns:1fr}}
