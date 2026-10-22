@@ -8,7 +8,7 @@ summary: ""
 
 {{< line-with-picture class="portrait" position="left" src="/img/photo.jpg" alt="Portrait de Mira" >}}
 
-# Bonjour, moi c’est Mira.
+# Bonjour, moi c’est Mira Chaffraix.
 
 J’évolue dans le recrutement depuis 2013 auprès des cabinets de conseil pour leur apporter une expertise au sourcing de profils de Middle & Top management.
 
